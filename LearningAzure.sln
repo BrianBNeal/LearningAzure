@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningAzure", "LearningAzure\LearningAzure.csproj", "{1D52BCC4-2A72-43FD-AF27-F14F1AC82BAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D52BCC4-2A72-43FD-AF27-F14F1AC82BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D52BCC4-2A72-43FD-AF27-F14F1AC82BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D52BCC4-2A72-43FD-AF27-F14F1AC82BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D52BCC4-2A72-43FD-AF27-F14F1AC82BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7F57902-6082-479F-BBF8-24BE014AEC4B}
+	EndGlobalSection
+EndGlobal
